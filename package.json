@@ -1,0 +1,25 @@
+{
+  "name": "scribe-plugin-toolbar-dropdown",
+  "version": "0.1.0",
+  "description": "Dropdown toggle for the scribe toolbar",
+  "main": "src/scribe-plugin-toolbar-dropdown.js",
+  "scripts": {
+    "test": "echo ¯\\_(ツ)_/¯ no tests yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ePages-de/scribe-plugin-toolbar-dropdown.git"
+  },
+  "keywords": [
+    "scribe",
+    "plugin",
+    "toolbar",
+    "dropdown"
+  ],
+  "author": "Florian Oellerich <f.oellerich@epages.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ePages-de/scribe-plugin-toolbar-dropdown/issues"
+  },
+  "homepage": "https://github.com/ePages-de/scribe-plugin-toolbar-dropdown#readme"
+}
