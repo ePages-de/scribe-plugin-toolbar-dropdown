@@ -1,6 +1,6 @@
 {
   "name": "scribe-plugin-toolbar-dropdown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dropdown toggle for the scribe toolbar",
   "main": "src/scribe-plugin-toolbar-dropdown.js",
   "scripts": {
